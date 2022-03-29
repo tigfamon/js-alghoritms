@@ -1,0 +1,14 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Solutions of the \"Algorithms\" section of the YandexPracticum course",
+  "scripts": {
+    "test": "jest",
+    "start": "jest --watchAll"
+  },
+  "author": "tigfamon",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
