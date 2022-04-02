@@ -1,6 +1,6 @@
 const quickSort = require('./quick_sort');
 
-const arr = [6,5,3,1,8,7,2,4];;
+const arr = [6,5,3,1,8,7,2,4];
 
 describe('quick_sort', () => {
   test('example', () => {
